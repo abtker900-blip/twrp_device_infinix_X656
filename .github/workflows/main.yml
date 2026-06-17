@@ -1,0 +1,8 @@
+MANIFEST_URL: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp
+MANIFEST_BRANCH: twrp-12.1
+DEVICE_TREE_URL: https://github.com/nanerb25/twrp_device_infinix_X656
+DEVICE_TREE_BRANCH: android-10.0
+DEVICE_PATH: device/infinix/X656
+DEVICE_NAME: X656
+MAKEFILE_NAME: twrp_X656
+BUILD_TARGET: recovery
